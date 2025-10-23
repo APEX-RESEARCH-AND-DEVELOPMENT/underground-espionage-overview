@@ -1,11 +1,13 @@
 # Underground Espionage Overview
 
-There are various number of underground Israeli groups present on platforms like Telegram, Signal etc.
+There are various number of underground Israeli groups present on platforms like Telegram, Signal etc. 
 
 These groups tend to talk really badly upon Palestinians as well as people in general who are against Zionism and Judaism.
 
 ![underground_group_example_message_1](https://github.com/APEX-RESEARCH-AND-DEVELOPMENT/underground-espionage-overview/blob/master/images/underground_group_example_message_1.png)
 ![underground_group_example_message_2](https://github.com/APEX-RESEARCH-AND-DEVELOPMENT/underground-espionage-overview/blob/master/images/underground_group_example_message_2.png)
+
+They have a genuine disgust for Palestinian people out of no reason whatsoever, and also say the most incriminating things possible that is surely to backfire if ever said in public. That being said, they sometimes also leak critical pieces of information such as anything privately related to military operations.
 
 
 ## What this project does
